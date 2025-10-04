@@ -1,1 +1,0 @@
-API documentation is essential because it acts as a user manual for developers and good documentation reduces confusion, speeds up development, and improves collaboration between frontend and backend teams. 
